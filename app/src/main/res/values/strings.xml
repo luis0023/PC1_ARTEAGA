@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PC1_LUIS_ARTEAGA</string>
+    <string name="lblTitle">Càlculo de Notas</string>
+    <string name="lblEP">Examen Parcial</string>
+    <string name="lblEF">Examen Final</string>
+    <string name="lblPEP">Promedio de evaluacion permanente(PEP)</string>
+    <string name="btnCalcular">Calcular</string>
+
+    <string name="lblTitle02">Resultado</string>
+    <string name="lblNota">La nota final es</string>
+    <string name="lblResultado">Resultado</string>
+
+</resources>
